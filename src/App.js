@@ -7,7 +7,7 @@ function App() {
     <div>
       <C01componente/>
       <h2>ARHUIRE SUYCO HELBER ARTURO</h2>
-      <h5>08/11/2023</h5>
+      <h5>NOCHE</h5>
       
     </div>
   );
